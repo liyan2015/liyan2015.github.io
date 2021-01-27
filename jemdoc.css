@@ -459,9 +459,9 @@ margin: 1px auto 1px;
 	-moz-box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
 	box-shadow: 0px 1px 3px rgba(0,0,0,0.4);
 	right: 0;
-	-webkit-transform: rotate(1deg);
-	-moz-transform: rotate(1deg);
-	transform: rotate(1deg);
+	-webkit-transform: rotate(2deg);
+	-moz-transform: rotate(2deg);
+	transform: rotate(2deg);
 }
 .dos:before, .dos:after,
 .tres:before, .tres:after,
