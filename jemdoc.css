@@ -69,7 +69,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: MerriweatherSans-Regular, sans-serif;
+	font-family: MerriweatherSans-Regular, sans-serif, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei";
 	padding-bottom: 8px;
 	margin: 0;
 }
